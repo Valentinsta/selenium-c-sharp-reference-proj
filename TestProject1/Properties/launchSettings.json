@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TestProject1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "CHROMEDRIVER_PATH": "C:\\ProgramData\\chocolatey\\bin\\chromedriver.exe"
+      }
+    }
+  }
+}
